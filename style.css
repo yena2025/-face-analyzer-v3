@@ -1,0 +1,16 @@
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  padding: 2rem;
+  background-color: #f4f4f4;
+}
+.container {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  max-width: 600px;
+  margin: auto;
+}
+#result {
+  margin-top: 2rem;
+}
